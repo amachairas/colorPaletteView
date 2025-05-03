@@ -6,3 +6,8 @@ I use shaders and P5js. The idea is simple: Imagine seeing your city if it were 
 It is easy to add more paintings, photos, or images. In the "images" folder, add the new paintings (in jpg format). Rename the image using the following number of the last upload e.g. "9.jpg" Then, in paletteView.js at line 262, change the "let cci = 8" to "let cci  = 9"
 
 Enjoy!
+
+
+VISIT 
+https://pandorium.eu/algos/plt0/
+Similar, if not the same, code! 
